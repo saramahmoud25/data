@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Product from './product';
+import Product from './Product';
 import Cart from './Cart';
 
 function App() {
