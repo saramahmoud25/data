@@ -1,0 +1,117 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Cream Sweater",
+        "price": 39.99,
+        "image": "https://i.pinimg.com/474x/21/ac/d0/21acd0b3e809fa9f8e2c5f9e0ea630fa.jpg",
+        "description": "Cozy cream knitted sweater, perfect for chilly days."
+      },
+      {
+        "id": 2,
+        "title": "Pink Cardigan",
+        "price": 34.99,
+        "image": "https://i.pinimg.com/474x/8f/26/18/8f261831f108917dc593679bf0a20cb4.jpg",
+        "description": "Soft pink cardigan with button-down front."
+      },
+      {
+        "id": 3,
+        "title": "Burgundy Handbag",
+        "price": 59.99,
+        "image": "https://i.pinimg.com/474x/67/04/57/6704571d84cbc03adc226d33b1ac01f4.jpg",
+        "description": "Elegant leather handbag in deep burgundy color."
+      },
+      {
+        "id": 4,
+        "title": "Casual Joggers",
+        "price": 29.99,
+        "image": "https://i.pinimg.com/474x/87/35/b3/8735b320fd9d22b8ac1309cdb1e13aeb.jpg",
+        "description": "Comfortable black and beige jogger pants for everyday wear."
+      },
+      {
+        "id": 5,
+        "title": "Beige T-Shirt Set",
+        "price": 24.99,
+        "image": "https://i.pinimg.com/474x/5f/37/55/5f375537974576660b5a1ce8c4f41805.jpg",
+        "description": "Simple beige T-shirt with stylish design and accessories."
+      },
+      {
+        "id": 6,
+        "title": "White Ankle Boots",
+        "price": 49.99,
+        "image": "https://i.pinimg.com/474x/a7/d1/73/a7d1739900bcd522265d82daea2f74b5.jpg",
+        "description": "Chic white ankle boots with a modern touch."
+      },
+      {
+        "id": 7,
+        "title": "White Sport Shoes",
+        "price": 44.99,
+        "image": "https://i.pinimg.com/474x/1d/18/22/1d1822a75f0116b055798a78e319f92b.jpg",
+        "description": "Lightweight white sneakers for active lifestyle."
+      },
+      {
+        "id": 8,
+        "title": "Wide-Leg Pants",
+        "price": 32.99,
+        "image": "https://i.pinimg.com/474x/51/ea/43/51ea4361a0231cd0d2237fe3471a3d72.jpg",
+        "description": "High-waisted wide-leg beige trousers for a trendy look."
+      },
+      {
+        "id": 9,
+        "title": "Light Blue Jeans",
+        "price": 34.99,
+        "image": "https://i.pinimg.com/736x/a5/de/7d/a5de7d8d46c72ac79a023364e936e873.jpg",
+        "description": "Stylish light-wash denim jeans with a straight fit."
+      },
+      {
+        "id": 10,
+        "title": "White Mini Bag",
+        "price": 22.99,
+        "image": "https://i.pinimg.com/474x/3d/a0/80/3da080626861be8a7894a1451827cc71.jpg",
+        "description": "Cute white mini handbag with elegant design."
+      },
+      {
+        "id": 11,
+        "title": "Black Oval Sunglasses",
+        "price": 15.99,
+        "image": "https://i.pinimg.com/474x/d9/39/e4/d939e457ed80f4014d147d759dac2df7.jpg",
+        "description": "Trendy black sunglasses with oval frame."
+      },
+      {
+        "id": 12,
+        "title": "Slim Black Sunglasses",
+        "price": 17.99,
+        "image": "https://i.pinimg.com/474x/63/60/2b/63602b06d258b8830129131aa689ec94.jpg",
+        "description": "Slim design sunglasses for a chic look."
+      },
+      {
+        "id": 13,
+        "title": "Wave T-Shirt",
+        "price": 21.99,
+        "image": "https://i.pinimg.com/474x/51/4a/7e/514a7ee9564cfabfa1ae7fefeb656d80.jpg",
+        "description": "White T-shirt with wave print on the back."
+      },
+      {
+        "id": 14,
+        "title": "Green Leather Watch",
+        "price": 44.99,
+        "image": "https://i.pinimg.com/474x/9e/7a/0e/9e7a0e441145f7386931ff474116c1b1.jpg",
+        "description": "Stylish watch with green leather strap and square face."
+      },
+      {
+        "id": 15,
+        "title": "Gold Chain Watch",
+        "price": 49.99,
+        "image": "https://i.pinimg.com/474x/f7/70/9d/f7709d0699a8043449f2b0ee79d3b900.jpg",
+        "description": "Luxurious watch with gold metal strap and minimal dial."
+      },
+      {
+        "id": 16,
+        "title": "Beige Loafers",
+        "price": 38.99,
+        "image": "https://i.pinimg.com/474x/85/d1/f5/85d1f515ca306222b60b1a706ec3492c.jpg",
+        "description": "Comfortable beige loafers with golden detail."
+      }
+    ]
+  }
+  
